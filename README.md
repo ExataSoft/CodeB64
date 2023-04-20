@@ -3,15 +3,19 @@ Algoritmo de Codificação Base64 | Sem usar operador de deslocamento de bits em
 
 Algoritmo de codificação Base64, diretamente da base decimal sem usar base binária e operador de deslocamento de bits.
 
-Acesse: https://www.onlinegdb.com/online_c_compiler para executar testes.
+## Execute o código
+
+Acesse: https://www.onlinegdb.com/online_c_compiler 
+
+copie e cole o código "CodeB64" para executar testes.
 
 Prof Marcelo Brito.
 
 ## Meu WebSite:
 
-   https://exatasoft.com
+   Exatas & Software: https://exatasoft.com
 
-### Quora
+## Quora
   
 Acesse: https://pt.quora.com/profile/Marcelo-Brito-31
 
