@@ -15,11 +15,13 @@ Prof Marcelo Brito.
 
    Exatas & Software: https://exatasoft.com
 
-## Quora
+## Meu Quora:
   
-Acesse: https://pt.quora.com/profile/Marcelo-Brito-31
+Acesse: https://pt.quora.com/profile/Marcelo-Brito-31  (Português)
 
-ou
+Acesse: https://www.quora.com/profile/Marcelo-Brito-47 (Inglês)
+
+Sobre CodeB64:
 
 Acesse: https://pt.quora.com/profile/Marcelo-Brito-31/Crunch-Gerador-de-lista-de-palavras-C%C3%B3digo-Fonte-em-C 
    
