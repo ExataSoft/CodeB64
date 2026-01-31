@@ -19,12 +19,6 @@ copie e cole o código "CodeB64" para executar testes.
 
    Exatas & Software: https://exatasoft.com
 
-## Meu Quora:
-  
-Acesse: https://pt.quora.com/profile/Marcelo-Brito-31  (Português)
-
-Acesse: https://www.quora.com/profile/Marcelo-Brito-47 (Inglês)
-
 Sobre CodeB64:
 
 Acesse: https://pt.quora.com/profile/Marcelo-Brito-31/Crunch-Gerador-de-lista-de-palavras-C%C3%B3digo-Fonte-em-C 
