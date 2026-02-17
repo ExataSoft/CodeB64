@@ -24,7 +24,7 @@ char DtoB (int D)
     return '0'+(D-52);                
   else if(D<63)   
     return '+';  
-  else return '-';       
+  else return '/';       
 }  
   
 //--------------------------------------  
