@@ -23,16 +23,17 @@ char DtoB (int D)
   else if(D<62)  
     return '0'+(D-52);                
   else if(D<63)   
-    return '/';  
-  else return '+';       
+    return '+';  
+  else return '-';       
 }  
   
 //--------------------------------------  
 //Comprimento da String recursivamente.   
 //--------------------------------------  
 int len(char *s)  
-{  
-   return (*s)?1+len(++s):0;      
+{  int c=0;
+   for(;*s;s++,c++); 
+   return c;      
 }  
   
 //--------------------------------  
