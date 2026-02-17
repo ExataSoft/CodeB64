@@ -8,10 +8,10 @@
 #define Max 100 //Comprimento máximo da String.  
   
 //-------------------------------  
-// Base64=[A..Z,a..z,0..9,/,+]  
+// Base64=[A..Z,a..z,0..9,+,/]  
 // Exemplos: DtoB(0)  retorna 'A'  
 //           DtoB(25) retorna 'Z'  
-//           DtoB(63) retorna '+'  
+//           DtoB(63) retorna '/'  
 //-------------------------------  
 char DtoB (int D)  
 {  
