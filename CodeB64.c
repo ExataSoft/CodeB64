@@ -28,7 +28,7 @@ char DtoB (int D)
 }  
   
 //--------------------------------------  
-//Comprimento da String recursivamente.   
+//Comprimento da String.   
 //--------------------------------------  
 int len(char *s)  
 {  int c=0;
